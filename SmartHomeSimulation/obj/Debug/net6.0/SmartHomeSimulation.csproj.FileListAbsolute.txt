@@ -1,0 +1,15 @@
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\bin\Debug\net6.0\SmartHomeSimulation.exe
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\bin\Debug\net6.0\SmartHomeSimulation.deps.json
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\bin\Debug\net6.0\SmartHomeSimulation.runtimeconfig.json
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\bin\Debug\net6.0\SmartHomeSimulation.dll
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\bin\Debug\net6.0\SmartHomeSimulation.pdb
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.csproj.AssemblyReference.cache
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.AssemblyInfoInputs.cache
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.AssemblyInfo.cs
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.csproj.CoreCompileInputs.cache
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.dll
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\refint\SmartHomeSimulation.dll
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.pdb
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\SmartHomeSimulation.genruntimeconfig.cache
+C:\repos\SmartHomeSimulation\SmartHomeSimulation\SmartHomeSimulation\obj\Debug\net6.0\ref\SmartHomeSimulation.dll
