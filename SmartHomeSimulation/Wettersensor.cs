@@ -1,4 +1,7 @@
 ﻿namespace M320_SmartHome {
+    /// <summary>
+    /// Der Wettersensor.
+    /// </summary>
     public class Wettersensor : IWettersensor
     {
         private Random random;
@@ -10,6 +13,10 @@
             this.currentTemp = random.Next(MIN_TEMP, MAX_TEMP);
         }
 
+        /// <summary>
+        /// Diese Methode liest die Wetterdaten.
+        /// </summary>
+        /// <returns>Die gelesenen (generierten) Wetterdaten.</returns>
         public Wetterdaten GetWetterdaten() {
             var rand = this.random.NextDouble();
 

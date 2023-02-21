@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace M320_SmartHome {
+    /// <summary>
+    /// Ein Zimmer mit Aktor (Decorator)
+    /// </summary>
     public abstract class ZimmerMitAktor : Zimmer {
         public ZimmerMitAktor(Zimmer zimmer) : base(zimmer.Name) {
            this.Zimmer = zimmer;
